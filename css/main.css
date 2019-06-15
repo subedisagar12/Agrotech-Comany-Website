@@ -1,0 +1,123 @@
+
+
+
+i{
+    color:black;
+}
+
+#empty{
+    width:100%;
+    height:50px;
+}
+
+#products{
+    margin-bottom:50px;
+}
+
+#carousel{
+    margin-bottom:50px;
+}
+
+.carousel-inner > .carousel-item {
+    height: 500px;
+    
+    /* -webkit-transition: -webkit-transform 1.2s ease-out !important;
+    -o-transition: -o-transform 1.2s ease-out !important;
+    transition: transform 1.2s ease-out !important; */
+    
+ }
+
+ #clients {
+     margin-top:50px;
+     margin-bottom:200px;
+    width:100%;
+    height: 200px;
+}
+
+ .slider h2{
+     text-align: center;
+     text-decoration: underline;
+ }
+
+
+
+
+
+
+
+.slider img {
+    height:200px;
+}
+
+.container h2{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom:50px;
+}
+
+footer{
+    width:100%;
+    height:100px;
+    background:#76f376;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Contact us page */
+
+#staff{
+    margin-top:80px;
+}
+
+.staff{
+    width:100%;
+    height:100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background:#76f376;
+}
+
+
+#staff .row{
+    margin-top:50px;
+}
+
+
+#staff .card img{
+    height:250px;
+    width:250px;
+    border-radius: 50%;
+    margin:auto;
+    
+}
+
+#staff .card h4{
+    text-align: center;
+}
+
+#staff .card h6{
+    text-align: center;
+}
+
+
+#staff .card:hover{
+    background:#76f376;
+
+    
+}
+
+.dropdown-menu .dropdown-item:hover{
+
+    transform:translateX(1.5px);
+    background:#76f376;
+    
+}
+
+
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
